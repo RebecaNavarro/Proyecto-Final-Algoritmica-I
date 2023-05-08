@@ -50,8 +50,6 @@ Las direcciones serán: <br/>
       
 </ol>          
     
-</div>
-    
 Deberá ingresar los valores de acuerdo a las indicaciones que se irán enviando en el programa.<br/>
     
 </div>
