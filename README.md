@@ -44,7 +44,7 @@ Las direcciones serán: <br/>
   <li> Malegria</li>
   <li> El bar de Moe</li>
   <li> La cheve</li>
-  <li> Parque aventura penhas </li>
+  <li> Parque aventura peñas </li>
   <li> Muela del diablo </li>
   <li> Calle linares</li>
       
