@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define INF 100000010
 using namespace std;
-vector<pair<int, int>> grafo[100000] = {
+vector<pair<int, int>> grafo[100000] = {{{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}},
     {{850, 2}, {850, 3}, {900, 4}, {1700, 5}, {17300, 6}, {1800, 7}, {1000, 8}, {600, 9}, {1200, 10}, {12300, 11}, {850, 12}, {600, 13}, {1000, 14}, {1000, 15}, {3300, 16}, {600, 17}, {17500, 18}},
     {{850, 1}, {260, 3}, {1300, 4}, {2500, 5}, {17300, 6}, {2500, 7}, {1700, 8}, {900, 9}, {1300, 10}, {13800, 11}, {2000, 12}, {1300, 13}, {1700, 14}, {200, 15}, {2600, 16}, {1300, 17}, {17600, 18}},
     {{850, 1}, {1000, 2},  {1100, 4}, {2200, 5}, {18300, 6}, {2200, 7}, {1700, 8}, {650, 9}, {1000, 10}, {12300, 11}, {1800, 12}, {800, 13}, {1700, 14}, {1500, 15}, {3100, 16}, {1000, 17}, {18600, 18}},
@@ -99,8 +99,10 @@ int main()
     cout << "17: Palacio quemado\n18: Muela del diablo\nSegún la lista anterior añade la ubicación inicial de tu recorrido: ";
     int source, destination;
     cin >> source;
+    source=source;
     cout << "Ahora añade el último lugar que desearías visitar o el lugar que no te puedes perder: ";
     cin >> destination;
+    destination=destination;
     dijkstra(source);
     cout << distancia[destination];
     print(destination);
