@@ -44,12 +44,16 @@ Deberá ingresar los valores de acuerdo a las indicaciones que se irán enviando
     
 ### Instalación
 Dentro de este repositorio de GitHub deberá hacer click en el botón '<> Code' en donde seleccionará, en la parte de 'Local', la opción 'Download ZIP'.<br/> 
+![alt text](https://github.com/RebecaNavarro/Proyecto-Final-Algoritmica-I/blob/main/Imagenes/download.jpg)
 
 Dentro de su carpeta extraer el todos los archivos.
+![alt text](https://github.com/RebecaNavarro/Proyecto-Final-Algoritmica-I/blob/main/Imagenes/extraer.jpg)
 
 Abrimos nuestro Visual Studio Code y nos dirigimos a la opción de 'File' y le damos a 'Open File' y buscamos el archivo que recién extraímos.
+![alt text](https://github.com/RebecaNavarro/Proyecto-Final-Algoritmica-I/blob/main/Imagenes/openfile.jpg)
 
-En el caso de salir esta pantalla seleccionamos 'Open'
+En el caso de salir esta pantalla seleccionamos 'Open'.
+![alt text](https://github.com/RebecaNavarro/Proyecto-Final-Algoritmica-I/blob/main/Imagenes/trust.jpg)
 
 Esperamos que cargue el documento y ya está listo para ejecutarse siempre y cuando se cumpla con las características de 'Proceso de instalación' del informe realizado.
 
