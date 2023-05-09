@@ -45,5 +45,14 @@ Deberá ingresar los valores de acuerdo a las indicaciones que se irán enviando
 ### Instalación
 Dentro de este repositorio de GitHub deberá hacer click en el botón '<> Code' en donde seleccionará, en la parte de 'Local', la opción 'Download ZIP'.<br/> 
 
+Dentro de su carpeta extraer el todos los archivos.
+
+Abrimos nuestro Visual Studio Code y nos dirigimos a la opción de 'File' y le damos a 'Open File' y buscamos el archivo que recién extraímos.
+
+En el caso de salir esta pantalla seleccionamos 'Open'
+
+Esperamos que cargue el documento y ya está listo para ejecutarse siempre y cuando se cumpla con las características de 'Proceso de instalación' del informe realizado.
+
+
      
     
